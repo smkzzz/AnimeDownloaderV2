@@ -21,3 +21,13 @@ Read port: 54243
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\TEMP\\rust_mozprofilehvSUVm\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:54233/devtools/browser/88cf6da3-da28-4307-9612-aabe49274384
 1676543839788	geckodriver	INFO	Listening on 127.0.0.1:54423
+1676543842860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54424" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofileMcpOIA"
+*** You are running in headless mode.
+1676543843405	Marionette	INFO	Marionette enabled
+1676543843411	Marionette	INFO	Listening on port 54436
+WebDriver BiDi listening on ws://localhost:54424
+Read port: 54436
+1676543843586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\TEMP\\rust_mozprofileMcpOIA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54424/devtools/browser/3443447f-8714-4d21-b937-6dd02fbc9bab
