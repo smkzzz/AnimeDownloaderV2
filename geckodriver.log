@@ -1,0 +1,23 @@
+1676543626769	geckodriver	INFO	Listening on 127.0.0.1:54161
+1676543629847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54162" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofileY2uTAA"
+*** You are running in headless mode.
+1676543630435	Marionette	INFO	Marionette enabled
+1676543630441	Marionette	INFO	Listening on port 54173
+WebDriver BiDi listening on ws://localhost:54162
+Read port: 54173
+1676543630699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\TEMP\\rust_mozprofileY2uTAA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54162/devtools/browser/14a1396e-2c2c-49b4-8aa4-0eaa946bde90
+1676543641741	geckodriver	INFO	Listening on 127.0.0.1:54232
+1676543644779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54233" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofilehvSUVm"
+*** You are running in headless mode.
+1676543645274	Marionette	INFO	Marionette enabled
+1676543645280	Marionette	INFO	Listening on port 54243
+WebDriver BiDi listening on ws://localhost:54233
+Read port: 54243
+1676543645413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\TEMP\\rust_mozprofilehvSUVm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54233/devtools/browser/88cf6da3-da28-4307-9612-aabe49274384
+1676543839788	geckodriver	INFO	Listening on 127.0.0.1:54423
