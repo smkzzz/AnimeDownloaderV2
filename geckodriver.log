@@ -134,3 +134,39 @@ Read port: 56152
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\TEMP\\rust_mozprofilezNoNnJ\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:56139/devtools/browser/a5a8c6ca-58ec-4416-ac9b-758e65d2086b
+1676545491794	geckodriver	INFO	Listening on 127.0.0.1:56290
+1676545494843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56291" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofileNE2sE3"
+*** You are running in headless mode.
+1676545495259	Marionette	INFO	Marionette enabled
+1676545495264	Marionette	INFO	Listening on port 56304
+WebDriver BiDi listening on ws://localhost:56291
+Read port: 56304
+1676545495403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\TEMP\\rust_mozprofileNE2sE3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56291/devtools/browser/6a115628-7303-4383-9694-d6e758a2e969
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:56413
+1676545587889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56414" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofileOtC2th"
+*** You are running in headless mode.
+1676545588304	Marionette	INFO	Marionette enabled
+1676545588310	Marionette	INFO	Listening on port 56426
+WebDriver BiDi listening on ws://localhost:56414
+Read port: 56426
+1676545588431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\TEMP\\rust_mozprofileOtC2th\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56414/devtools/browser/d414642c-330f-469d-b148-4a0c1764f0a6
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:56654
+1676545807803	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56655" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofilehnpOOA"
+*** You are running in headless mode.
+1676545808240	Marionette	INFO	Marionette enabled
+1676545808246	Marionette	INFO	Listening on port 56666
+WebDriver BiDi listening on ws://localhost:56655
+Read port: 56666
+1676545808534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\TEMP\\rust_mozprofilehnpOOA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56655/devtools/browser/95e00057-3e81-47c2-b398-ac4112ce0321
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
