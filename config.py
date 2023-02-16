@@ -6,10 +6,11 @@ BANNER = {
     'banner_title': '#0CF574',
     'banner_border': '#15E6CD'
 }
-TEXT_MSG_COLOR = [
-    """
+"""
          ( primary, secondar, warning ) texts
-    """
+ """
+TEXT_MSG_COLOR = [
+
     {'title': '#587291', 'text': '#023436'},
     {'title': '#03B5AA', 'text': '#00BFB3'},
     {'title': '#FFB627', 'text': '#CC5803'},
