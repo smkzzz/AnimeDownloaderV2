@@ -170,3 +170,25 @@ Read port: 56666
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\TEMP\\rust_mozprofilehnpOOA\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:56655/devtools/browser/95e00057-3e81-47c2-b398-ac4112ce0321
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1676547271951	geckodriver	INFO	Listening on 127.0.0.1:57866
+1676547275031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57867" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofilegKzEXo"
+*** You are running in headless mode.
+1676547275556	Marionette	INFO	Marionette enabled
+1676547275561	Marionette	INFO	Listening on port 57879
+WebDriver BiDi listening on ws://localhost:57867
+Read port: 57879
+1676547275700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\TEMP\\rust_mozprofilegKzEXo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57867/devtools/browser/be206be3-ae79-42ed-94b0-fcaea06b0a57
+1676547331167	geckodriver	INFO	Listening on 127.0.0.1:57984
+1676547334236	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57985" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofileilWPVC"
+*** You are running in headless mode.
+1676547334740	Marionette	INFO	Marionette enabled
+1676547334746	Marionette	INFO	Listening on port 57994
+WebDriver BiDi listening on ws://localhost:57985
+Read port: 57994
+1676547334859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\TEMP\\rust_mozprofileilWPVC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57985/devtools/browser/e7fdf031-5727-443e-8d57-b81c6f96dac6

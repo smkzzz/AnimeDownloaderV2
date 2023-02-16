@@ -9,5 +9,5 @@ os.system("cls")
 driver = Driver()
 
 if __name__ == '__main__':
-    time.sleep(2)
+
     # anime(driver)
